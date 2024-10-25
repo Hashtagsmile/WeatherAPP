@@ -42,6 +42,10 @@ npm install
 ```bash
 npm run dev
 ```
+### Todos
+- Remove comments.
+- Remove logs for debugging.
+- Add testing framework to test the application and user flow.
 
 ### Future Improvements
 - Localization: Add support for multiple languages and localized date formats.
