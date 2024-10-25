@@ -10,6 +10,7 @@ The app utilizes a weather API and displays forecasted data based on the selecte
 - Axios
 - Bootstrap for styling
 - custom Hooks (e.g useForecst.ts, useWeather.ts, useWeatherDetail.ts)
+- Open streetmaps for location pin in details view.
 
 
 ## Getting Started
