@@ -10,7 +10,7 @@ The app utilizes a weather API and displays forecasted data based on the selecte
 - Axios
 - Bootstrap for styling
 - custom Hooks (e.g useForecst.ts, useWeather.ts, useWeatherDetail.ts)
-- Open streetmap for pinning the location
+- Open streetmaps for location pin in details view.
 
 
 ## Getting Started
@@ -42,6 +42,10 @@ npm install
 ```bash
 npm run dev
 ```
+### Todos
+- Remove comments.
+- Remove logs for debugging.
+- Add testing framework to test the application and user flow.
 
 ### Future Improvements
 - Localization: Add support for multiple languages and localized date formats.
